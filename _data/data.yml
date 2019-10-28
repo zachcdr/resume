@@ -1,0 +1,203 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Zachary Pfahl
+    tagline: Full Stack Developer
+    avatar: profile.png
+    
+    # Sidebar links
+    email: zachcdr@gmail.com
+    phone: (425) 351-2274
+    website:
+    linkedin: loren-anderson-85953a13
+    github: ZachCDR
+    gitlab:
+    bitbucket: ZachCDR1
+    twitter:
+    stack-overflow:
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    #languages:
+      #- idiom: English
+        #level: Native
+
+    interests:
+      - item: Camping
+        link:
+
+      - item: Fitness
+        link:
+
+      - item: Golfing
+        link:
+
+      - item: Gaming
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Zachary is an experienced, diverse, and enthusiastic engineer. He has demonstrated a history
+      of fundamental knowledge and skills across multiple programming languages and frameworks. Zachary
+      strives in a team environment and never shies away from taking on a leadership role to drive a
+      project to completion. To surmise, Zachary is a passionate Senior Engineer who specializes in custom
+      software application development and software integrations.
+
+
+education:
+    - degree: General Studies - Focus on Business
+      university: Western Washington University
+      time: 2004 - 2008
+
+experiences:
+    - role: Lead Developer
+      time: May 2019 - Present
+      company: Mercedes Benz (on contract by iTrellis, LLC), Seattle
+      details: |
+        Use software to integrate several of the client's systems and delivery
+        a sucessful product within weeks. Learned the client's operations procedures
+        and use Docker &amp; Kubernetes to stand the systems up in Azure.  Loren juggled
+        several projects across different teams simultaneously and continued to management
+        the client's needs while cooridinating across different teams located in 
+        different parts of the world.
+        
+        _Accomplishments_
+          -	Successfully build software and integrated it with different systems within
+          the corporation.
+          - Worked from Seattle and worked with local teams as well as team in Europe.
+          - Worked on multiple projects at once across multiple teams.
+
+    - role: Lead Developer
+      time: Oct 2019 - May 2019
+      company: CBRE (on contract by iTrellis, LLC), Dallas
+      details: |
+        Worked with a team located in Dallas, TX doing a combination of working on-site
+        and remotely.  Loren quickly displayed that he was able to work within the team
+        by helping to solve projects on the front-end and back-end. With his help the team
+        produced an Angular-driven internal website which helped analysts within the company
+        view statistics and KPIs regarding the company's performance.
+        
+        _Accomplishments_
+          -	The only member of the team working on front-end and back-end parts of the code
+          increase production and decrease dependencies.
+          - Taught members of the team best practices.
+          - Successfully worked with the team while traveling and working remotely.
+          - Angular 7, Postgres, & GoLang
+
+    - role: Lead Developer
+      time: Oct 2018 - Oct 2019
+      company: Crestron (on contract by iTrellis, LLC), New Jersey
+      details: |
+        Assisted in a major overhaul and deployment of the client’s
+        primary customer facing website. Then followed with continued
+        support and feature development. Helped teach software
+        development best practice to leave the client in a better
+        position.  Also helped with code reviews, release management,
+        DevOps, and documentation.
+        
+        _Accomplishments_
+          -	Helped release an enterprise level Azure hosted website.
+          -	Integrations with CDN, DAM, Elastic Search, and more.
+          -	Quickly learned the company’s software stack and began delivering value to the customer immediately.
+          -	Planned and executed a release management solution for content managers.
+
+
+    - role: Developer, Project Manager, &amp; Scrum Master
+      time: Dec 2017 - Oct 2019
+      company: Capstone Technologies (on contract by iTrellis, LLC), Portland
+      details: |
+        Helped to reorganize a company that had no software change management
+        processes into a SAFe organization.  Used Microsoft Team Foundation
+        Server as the team support technology.  Currently acting Scrum Master
+        and helping the team adopt Agile principles and continuous development
+        techniques.  Produced metrics to identify strong and weak points in
+        the software creation process.
+          
+        _Accomplishments_
+          -	Organized the company into 3 functioning Scrum teams.
+          -	Taught 9 developers and 5+ business analysts how to utilize the Scrum process. 
+          -	Quickly learned the company’s software stack and began delivering value to 
+          the customer.
+          -	Created a CI/CD pipeline to increase productivity and quality assurance.
+
+
+    - role: Developer Team Lead, Business Analyst, &amp; Scrum Master
+      time: Mar 2011 - Jun 2016
+      company: ATG Stores / Lowe's, Kirkland
+      details: |
+        Loren began his role at ATG as a software developer and quickly took over 
+        a major piece of the system. Loren rewrote the e-commerce cart and checkout
+        then built a team to help maintain and add features. Loren was essential 
+        in helping the integration with Lowe's and helped 
+        
+        _Accomplishments_
+          - Built and maintained an e-commerce checkout using Asp.net and C#.
+          - Was a pioneer in the company by adopting Scrum methodoligies with his team.
+          - Lead the team in compliying with PCI standards.
+          - Designed and implemented a secure credit card vault.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
+    papers:
+      - title: The Art of Computer Programming
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+    languages: "C#, Java, TypeScript, JavaScript, GoLang, Python, VB, SQL"
+    frameworks: ".NET, Angular, RxjJS, Spring Boot, BeeGo, jQuery, Jekyll"
+    tools: "Windows, Mac OS, Visual Studio, VS Code, Agile, Scrum, SAFe"
+    operations: "CICD, Docker, Kubernetes, Helm, Azure Devops, Atlassian Jira, Jenkins, Atlassian Bamboo"
+    other: "Git, Azure, SQL Server, Postgres"
+
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
