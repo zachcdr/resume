@@ -31,6 +31,9 @@ sidebar:
     interests:
       - item: Camping
         link:
+        
+      - item: Cooking
+        link:
 
       - item: Fitness
         link:
@@ -47,7 +50,7 @@ career-profile:
       Zachary is an experienced, diverse, and enthusiastic engineer. He has demonstrated a history
       of fundamental knowledge and skills across multiple programming languages and frameworks. Zachary
       strives in a team environment and never shies away from taking on a leadership role to drive a
-      project to completion. To surmise, Zachary is a passionate Senior Engineer who specializes in custom
+      project to completion. To summarize, Zachary is a passionate Senior Engineer who specializes in custom
       software application development and software integrations.
 
 
