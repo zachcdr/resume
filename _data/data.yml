@@ -83,13 +83,13 @@ experiences:
         and understanding of new software tools and frameworks.
         
         _Accomplishments_
-          - Migrate on-premises accounting (inventory, sales, payroll) 
+          - Migrated on-premises accounting (inventory, sales, payroll) 
             to Microsoft AX Dynamics in Azure using point-to-point 
             integrations developed with MuleSoft
-          - Integrate emarsys, "[...] largest independent marketing platform company in the world", 
+          - Integrated emarsys, "[...] largest independent marketing platform company in the world", 
             into loyalty and management platforms
-          - Leverage Azure's CI/CD pipeline utilizing ARM template deployments
-          - Utilize MuleSoft and/or .NET Core for multiple API-led connectivity applications
+          - Leveraged Azure's CI/CD pipeline utilizing ARM template deployments
+          - Utilized MuleSoft and/or .NET Core for multiple API-led connectivity applications
 
     - role: Software Development Team Lead
       time: October 2015 - October 2016
@@ -103,7 +103,7 @@ experiences:
           -	First responder to critical production defects
           -	Team was served high priority/impact projects
           -	Maintained an eCommerce checkout solution
-          - Practice agile scrum methodologies
+          - Practiced agile scrum methodologies
           - Supported release management
           - Collaborated with other teams and clients
 
