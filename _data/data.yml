@@ -51,9 +51,9 @@ career-profile:
 
 
 education:
-    - degree: ?
-      university: ?
-      time: ?
+    - degree: Some BA (Bad Ass) Degree
+      university: Demoversity
+      time: Since the beginning
 
 experiences:
     - role: Senior Software Engineer
