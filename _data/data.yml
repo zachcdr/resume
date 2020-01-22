@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Zachary Pfahl
-    tagline: Full Stack Developer
+    name: Ethan Pfahl
+    tagline: Demo Specialist
     avatar: profile.png
     
     # Sidebar links
-    email: zachcdr@gmail.com
-    phone: (425) 351-2274
+    email: ethan.pfahl19@gmail.com
+    phone: (206) 554-9626
     website:
-    linkedin: zachary-pfahl-122b45115
-    github: ZachCDR
-    gitlab: ZachCDR1
+    linkedin: 
+    github: 
+    gitlab: 
     bitbucket:
     twitter:
     stack-overflow:
@@ -29,16 +29,16 @@ sidebar:
         #level: Native
 
     interests:
-      - item: Camping
+      - item: Dogs
         link:
         
-      - item: Cooking
+      - item: Farm Living
         link:
 
-      - item: Fitness
+      - item: Rally Cars
         link:
 
-      - item: Golfing
+      - item: Family
         link:
 
       - item: Gaming
@@ -47,17 +47,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Zachary is an experienced, diverse, and enthusiastic engineer. He has demonstrated a history
-      of fundamental knowledge and skills across multiple programming languages and frameworks. Zachary
-      strives in a team environment and never shies away from taking on a leadership role to drive a
-      project to completion. To summarize, Zachary is a passionate Senior Engineer who specializes in custom
-      software application development and software integrations.
+      Ethan does demo things...
 
 
 education:
-    - degree: Engineering Transfer - Focus on Civil Engineering
-      university: Bellevue College
-      time: 2009-2012
+    - degree: ?
+      university: ?
+      time: ?
 
 experiences:
     - role: Senior Software Engineer
