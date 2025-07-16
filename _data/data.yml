@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Zachary Pfahl
-    tagline: Full Stack Developer
+    tagline: Software Architect
     avatar: profile.png
     
     # Sidebar links
@@ -49,7 +49,7 @@ career-profile:
     summary: |
       Zachary is an experienced, diverse, and enthusiastic engineer. He has demonstrated a history
       of fundamental knowledge and skills across multiple programming languages and frameworks. Zachary
-      strives in a team environment and never shies away from taking on a leadership role to drive a
+      thrives in a team environment and never shies away from taking on a leadership role to drive a
       project to completion. To summarize, Zachary is a passionate Senior Engineer who specializes in custom
       software application development and software integrations.
 
@@ -60,13 +60,25 @@ education:
       time: 2009-2012
 
 experiences:
-    - role: Princiapl Software Engineer
-      time: March 2022 - Present
+    - role: Software Architect
+      time: March 2025 - Present
       company: Savers | Value Village
       details: |
-        Zachary has stepped into the lead engineer role on the enterprise-wide initiative of building an in house 
+        On the heels of the success of Inventory Management, Zachary has been promoted to a Software Architect.
+        He will continue to create and deliver production software in addition to evangelizing best practices
+        and living Savers' core values into the future of IT.
+        
+    - role: Principal Software Engineer
+      time: March 2022 - February 2025 
+      company: Savers | Value Village
+      details: |
+        Zachary has stepped into the lead engineer role on the enterprise-wide initiative of building an in-house 
         Inventory Management Suite. He continues to take pride in the collaboration of architectural decisions and
         optimizing business operations with software.
+        
+        _Accomplishments_
+          -	Deployed the custom Inventory Management Suite fleet-wide across the Savers enterprise
+          - Began designing and publishing software, pushing brand recognition and capture
 
     - role: Senior Software Engineer
       time: January 2019 - March 2022
@@ -75,7 +87,7 @@ experiences:
         Works on a close-knit and collaborative engineering team while evangelizing agile
         principles to the organization. Zachary has worked closely in cross-team development to
         assist in building a "One IT" culture. He also supports the business with travel to destination
-        stores to setup and trains new applications.
+        stores to set up new software and hardware applications.
         
         _Accomplishments_
           -	Transformed a monolithic legacy solution into a clean microservice architecture.
@@ -88,8 +100,8 @@ experiences:
       time: October 2016 - January 2019
       company: iTrellis LLC
       details: |
-        Zachary worked in both silo and team projects delivering proficient, requirement
-        driven software solutions. He has displayed quickness on his feet in the adaption
+        Zachary worked in both silo and team projects, delivering proficient, requirement
+        driven software solutions. He has displayed quickness on his feet in the adaptation
         and understanding of new software tools and frameworks.
         
         _Accomplishments_
